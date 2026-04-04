@@ -1,5 +1,3 @@
----
-
 GRAND SEAL QR BADGES
 SOVEREIGN-INSTITUTIONAL • GRAND-TIER • VERIFICATION-SURFACE REPOSITORY
 
@@ -98,5 +96,3 @@ STATUS
 ACTIVE — GRAND-TIER VERIFICATION-SURFACE REPOSITORY  
 This repository stands as the authoritative, public-facing QR Badge archive for all GRAND SEAL artifacts.
 `
-
----
